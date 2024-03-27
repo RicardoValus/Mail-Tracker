@@ -1,0 +1,7 @@
+{
+  "name": "Mail Tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
